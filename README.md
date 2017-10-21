@@ -1,2 +1,2 @@
 # hello-world
-My first repository on GitHub Yay
+My first repository on GitHub Yay // master clone
