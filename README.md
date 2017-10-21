@@ -1,4 +1,3 @@
 # hello-world
 My first repository on GitHub Yay
-First Edit ?
-Second Edit
+First Edit // master
